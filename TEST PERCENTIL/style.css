@@ -1,0 +1,498 @@
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    font-family: "Chewy", system-ui;
+    font-weight: 100;
+    font-style: normal;
+}
+/*--------------------LIBRETA--------------------*/
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+}
+.libreta{
+    background-image: url(libreta.png);
+    background-size: 100% 100%;
+    width: 70%;
+    height: 90%;
+    position: relative;
+}
+.titulo{
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    height: 9%;
+    display: flex;
+    justify-content: flex-end;
+}
+.titulo h3{
+    
+    margin: 0;
+    padding-right: 6%;
+    padding-top: 2%;
+    text-align: center;
+}
+.preguntas{
+    position: absolute;
+    transition: opacity 0.5s ease-in-out;
+    margin: 0 20% 0 20%;
+    height: 80%;
+    overflow: auto;
+    font-size: 20px;
+    font-weight: 700;  
+}
+
+
+input,h4{
+    margin: 8px;
+    border-top: 2px solid black;
+}
+input{
+    margin-left: 20%;
+    
+}
+.nombre{
+    border-top: 2px solid black;
+    /*border-bottom: 2px solid black;*/
+    padding: 0;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+}
+.nombre input {
+    margin: 0;
+    border: none;
+}
+
+/*--------------------END LIBRETA--------------------*/
+
+/*--------------------INICIO--------------------*/
+.cuadro-titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    height: 100%;
+}
+.titulo-inicio{
+    height: 65%;
+    text-align: center;
+    font-size: 15vh;
+    display: flex;
+    align-items: flex-end;
+}
+.titulo-inicio p{
+    margin: 0;
+}
+.subtitulo{
+    font-family: "League Spartan", sans-serif;
+    font-size: 4vh;
+    font-weight: 400;
+    height: 35%;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+}
+.subtitulo p {
+    margin: 0;
+}
+
+
+/*--------------------END INICIO--------------------*/
+
+/*--------------------BOTONES--------------------*/
+.botones{
+    width: 70%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.botones button{
+    background-color: #ffffff;
+    padding: 0;
+    width: 10%;
+    height: 60%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.5vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+}   
+.botones button:hover{
+    background-color: #ffffff;
+    padding: 0;
+    width: 15%;
+    height: 65%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.5vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+} 
+
+.botones button p{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);      
+    color: #000000;                                                  
+} 
+.botones button span{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);      
+    color: #fff;                                                  
+} 
+
+.circulo{
+    position: absolute;
+    background-color: #000000;
+    top: 50%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    height: 90%;
+    border-radius: 50%;    
+    color: #fff;
+}   
+
+.botones a{
+    background-color: #ffffff;
+    padding: 0;
+    width: 10%;
+    height: 60%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+}   
+
+.botones a:hover{
+    background-color: #ffffff;
+    padding: 0;
+    width: 15%;
+    height: 65%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+} 
+
+.botones a p{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);      
+    color: #000000;                                                  
+} 
+.botones a span{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);      
+    color: #fff;                                                  
+} 
+/*--------------------END BOTONES--------------------*/         
+
+/*--------------------CONTRASEÑA--------------------*/
+.espacio-contra{
+    margin: auto;
+    text-align: center;
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+.letras-contra{
+ font-size: 5vh;
+}
+.input-contra input{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.boton-contra{
+    background-color: #ffffff;
+    padding: 0;
+    margin-top: 10px;
+    width: 60%;
+    height: 100%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700; 
+}
+.boton-contra:hover{
+    background-color: #000;
+    color: white;
+    padding: 0;
+    margin-top: 10px;
+    width: 60%;
+    height: 100%;       
+    border-radius: 20px;    
+    border: 2px solid #fff;    
+    font-size: 1.8vh;    
+    font-weight: 700; 
+}
+/*--------------------END CONTRASEÑA--------------------*/
+  
+
+/*--------------------LIBRETA CELULAR--------------------*/
+@media only screen and (max-width: 1023px) {
+    
+
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 85vh;
+}
+.libreta{
+    background-image: url(libreta_movile.png);
+    background-size: 100% 100%;
+    width: 95%;
+    height: 100%;
+    position: relative;
+}
+.titulo{
+    position: absolute;
+    top: 87%;
+    right: 0;
+    z-index: 20;
+    text-align: center;
+    width: 25%;   
+}
+
+.preguntas{
+    position: absolute;
+    transition: opacity 0.5s ease-in-out;
+    margin: 32% 5% 0 10%;
+    height: 67%;
+    overflow: auto;
+    font-size: 20px;
+    font-weight: 700;  
+}
+
+
+input,h4{
+    margin: 8px;
+    border-top: 2px solid black;
+}
+input{
+    margin-left: 7%;
+    
+}
+.nombre{
+    border-top: 2px solid black;
+    /*border-bottom: 2px solid black;*/
+    padding: 0;
+    position: sticky;
+    top: 0;
+    background-color: #ffffff;
+}
+.nombre input {
+    margin: 0;
+    border: none;
+}
+
+/*--------------------END LIBRETA CELULAR--------------------*/
+
+/*--------------------INICIO CELULAR--------------------*/
+.cuadro-titulo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+}
+.titulo-inicio{
+    height: 60%;
+    width: 100%;
+    text-align: center;
+    font-size: 400%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+.titulo-inicio p{
+    margin: 0;
+}
+.subtitulo{
+    font-family: "League Spartan", sans-serif;
+    font-size: 4vh;
+    font-weight: 400;
+    height: 35%;
+    text-align: center;
+    display: flex;
+    align-items: flex-start;
+}
+.subtitulo p {
+    margin: 0;
+}
+
+
+/*--------------------END INICIO CELULAR--------------------*/
+
+/*--------------------BOTONES CELULAR--------------------*/
+.botones{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.botones button{
+    background-color: #ffffff;
+    padding: 0;
+    width: 50%;
+    height: 60%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.5vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+}   
+.botones button:hover{
+    background-color: #ffffff;
+    padding: 0;
+    width: 55%;
+    height: 65%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.5vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+} 
+
+.botones button p{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);      
+    color: #000000;                                                  
+} 
+.botones button span{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);      
+    color: #fff;                                                  
+} 
+
+.circulo{
+    position: absolute;
+    background-color: #000000;
+    top: 50%;
+    left: 18%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+    padding: 0;
+    width: 30%;
+    height: 90%;
+    border-radius: 50%;    
+    color: #fff;
+}   
+
+.botones a{
+    background-color: #ffffff;
+    padding: 0;
+    width: 50%;
+    height: 60%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+}   
+
+.botones a:hover{
+    background-color: #ffffff;
+    padding: 0;
+    width: 55%;
+    height: 65%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700;    
+    position: relative;                                                                         
+} 
+
+.botones a p{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 63%;
+    transform: translate(-50%, -50%);      
+    color: #000000;                                                  
+} 
+.botones a span{
+    position: absolute;
+    margin: 0 ;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);      
+    color: #fff;                                                  
+} 
+/*--------------------END BOTONES CELULAR--------------------*/         
+
+/*--------------------CONTRASEÑA CELULAR--------------------*/
+.espacio-contra{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    border: 4px solid black;
+    display: flex;
+    flex-direction: column;
+    padding: 5%;
+}
+.letras-contra{
+ font-size: 5vh;
+}
+.input-contra input{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.boton-contra{
+    background-color: #ffffff;
+    padding: 0;
+    margin-top: 10px;
+    width: 60%;
+    height: 100%;       
+    border-radius: 20px;    
+    border: 2px solid black;    
+    font-size: 1.8vh;    
+    font-weight: 700; 
+}
+.boton-contra:hover{
+    background-color: #000;
+    color: white;
+    padding: 0;
+    margin-top: 10px;
+    width: 60%;
+    height: 100%;       
+    border-radius: 20px;    
+    border: 2px solid #fff;    
+    font-size: 1.8vh;    
+    font-weight: 700; 
+}
+/*--------------------END CONTRASEÑA CELULAR--------------------*/
+}  

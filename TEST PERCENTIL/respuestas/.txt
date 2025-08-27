@@ -1,0 +1,94 @@
+
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Dominador
+
+     ....................................................................
+     ...........II. RESERVADO & EXPANSIVO..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Expansivo
+
+
+     ....................................................................
+     ........III. INCONSTANTE & PERSEVERANTE........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Perseverante
+
+     ....................................................................
+     ......IV. INTROVERTIDO & EXTRAVERTIDO......
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Extrovertido
+
+     ....................................................................
+     ......V. DESCONFIADO & CONFIADO......
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Confiado
+
+     ....................................................................
+     ......IV. INTROVERTIDO & EXTRAVERTIDO......
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Extrovertido
+
+     ....................................................................
+     ........III. INCONSTANTE & PERSEVERANTE........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Perseverante
+
+     ....................................................................
+     ...........II. RESERVADO & EXPANSIVO..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Expansivo
+
+
+     ....................................................................
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Dominador
+
+     ....................................................................
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Dominador
+
+     ....................................................................
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Dominador
+
+     ....................................................................
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Dominador
+
+     ....................................................................
+     ......VI. MISANTROPO & SOCIABLE......
+
+     Nombre: 
+     Puntos: 0
+     Resultado:  Es Sociable
+
+     ....................................................................

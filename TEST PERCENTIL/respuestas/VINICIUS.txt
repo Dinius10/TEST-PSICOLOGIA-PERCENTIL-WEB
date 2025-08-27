@@ -1,0 +1,58 @@
+
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: VINICIUS
+     Puntos: 12 Percentil es: 29
+     Resultado:  Es sumiso
+
+     ....................................................................
+     ...........II. RESERVADO & EXPANSIVO..........
+
+     Nombre: VINICIUS
+     Puntos: 13 Percentil es: 48
+     Resultado:  Es Expansivo
+
+
+     ....................................................................
+     ........III. INCONSTANTE & PERSEVERANTE........
+
+     Nombre: VINICIUS
+     Puntos: 14 Percentil es: 26
+     Resultado:  Es Perseverante
+
+     ....................................................................
+     ......IV. INTROVERTIDO & EXTRAVERTIDO......
+
+     Nombre: VINICIUS
+     Puntos: 14 Percentil es: 30
+     Resultado:  Es Extrovertido
+
+     ....................................................................
+     ......V. DESCONFIADO & CONFIADO......
+
+     Nombre: VINICIUS
+     Puntos: 12 Percentil es: 23
+     Resultado:  Es Desconfiado
+
+     ....................................................................
+     ......VI. MISANTROPO & SOCIABLE......
+
+     Nombre: VINICIUS
+     Puntos: 8 Percentil es: 14
+     Resultado:  Es Misantropo
+
+     ....................................................................
+     ......VI. MISANTROPO & SOCIABLE......
+
+     Nombre: VINICIUS
+     Puntos: 0
+     Resultado:  Es Sociable
+
+     ....................................................................
+     ......VI. MISANTROPO & SOCIABLE......
+
+     Nombre: VINICIUS
+     Puntos: 0
+     Resultado:  Es Sociable
+
+     ....................................................................

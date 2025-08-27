@@ -1,0 +1,58 @@
+
+     ...........I. SUMISO & DOMINADOR..........
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 29
+     Resultado:  Es sumiso
+
+     ....................................................................
+     ...........II. RESERVADO & EXPANSIVO..........
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 40
+     Resultado:  Es Reservado
+
+
+     ....................................................................
+     ........III. INCONSTANTE & PERSEVERANTE........
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 14
+     Resultado:  Es Inconstante
+
+     ....................................................................
+     ......IV. INTROVERTIDO & EXTRAVERTIDO......
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 20
+     Resultado:  Es Introvertido
+
+     ....................................................................
+     ......V. DESCONFIADO & CONFIADO......
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 23
+     Resultado:  Es Desconfiado
+
+     ....................................................................
+     ......V. DESCONFIADO & CONFIADO......
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 23
+     Resultado:  Es Desconfiado
+
+     ....................................................................
+     ......V. DESCONFIADO & CONFIADO......
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 23
+     Resultado:  Es Desconfiado
+
+     ....................................................................
+     ......VI. MISANTROPO & SOCIABLE......
+
+     Nombre: LUCHO ARCE
+     Puntos: 12 Percentil es: 28
+     Resultado:  Es Misantropo
+
+     ....................................................................
